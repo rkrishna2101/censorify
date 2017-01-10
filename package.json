@@ -1,0 +1,10 @@
+{
+"name":"censorify",
+"version":"1.0.0",
+"main":"censortext",
+"dependencies":{},
+"engine":{
+"node":"*"
+}
+
+}
